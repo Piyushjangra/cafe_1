@@ -1,0 +1,65 @@
+#one{
+    background-color: black;
+    color: white;
+    font-style: italic;
+    font-size: x-large
+}
+#two {
+    font-weight: bold;
+    text-shadow: 2px 2px 3px rgb(226, 43, 174);
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#three {
+    background-color: rgb(211, 64, 64);
+    color: aliceblue;
+    font-size: xx-large;
+}
+#four {
+    background-color: rgb(28, 68, 28);
+    color: aliceblue;
+    font-size: xx-large;
+}
+#five {
+    background-color: rgb(255, 255, 10);
+    font-size: xx-large;
+}
+#six {
+    background-color: rgb(70, 13, 13);
+    font-size: xx-large;
+    color: white;
+}
+#seven {
+    background-color: rgb(194, 113, 113);
+    color: azure;
+    font-size: xx-large;
+}
+#eight {
+    background-color: gold;
+    font-style: oblique;
+    font-size: x-large
+}
+#nine {
+    background-color: lawngreen;
+    font-style: oblique;
+    font-size: x-large
+}
+#ten {
+    width: 400px;
+    height: 400px;
+}
+#coffee{
+    height: 300px;
+    width: 300px;
+    background-image: url(https://static.toiimg.com/thumb/53842591.cms?imgsize=1077535&width=800&height=800);
+    background-size: cover;
+    transition: 1s;
+}
+#coffee:hover {
+    background-image: url(https://www.mygingergarlickitchen.com/wp-content/rich-markup-images/16x9/16x9-cold-coffee-recipe.jpg);
+    background-size:contain;
+    height: 300px;
+    width: 300px;
+
+
+}
